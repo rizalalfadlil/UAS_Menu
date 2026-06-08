@@ -1,4 +1,4 @@
-# Dokumentasi Aplikasi Menu Manajemen
+# Dokumentasi Aplikasi
 
 ## 📋 Daftar Isi
 1. [Pendahuluan](#pendahuluan)
